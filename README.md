@@ -5,3 +5,4 @@ This will just be a collection of smaller mini projects on data visualization, d
 
 ## Pokemon Stats
 ---
+In my first edit I just wanted to get the base idea down of the best pokemon by their stats.
